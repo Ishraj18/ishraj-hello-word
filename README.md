@@ -1,2 +1,2 @@
 # hello-word
-CSE 232
+CSE 232 is a c++ course.
